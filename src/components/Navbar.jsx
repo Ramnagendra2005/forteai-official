@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 import logo from '../assets/logo.png';
-import ball from '../assets/ball.png';
+import ball from '../assets/Ball.png';
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
