@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { FiTwitter, FiLinkedin, FiGithub } from 'react-icons/fi';
-import ball from '../assets/ball_logo.png'; // Import the ball logo
+import ball from '../assets/Ball_logo.png'; // Import the ball logo
 
 const Footer = () => {
   return (
